@@ -1,4 +1,3 @@
-I'm a problem solver and a software engineer.
 - Founder of [DevDock](https://www.devdock.com.br)
 - Contact: lucas@devdock.com.br
 ---
