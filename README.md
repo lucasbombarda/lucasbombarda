@@ -1,8 +1,5 @@
-- Founder of [DevDock](https://www.devdock.com.br)
-- Contact: lucas@devdock.com.br
----
-- For high-level: `.py`
-- For low-level: `.rs` `.c`
-- For the web: `.js` `.ts` `.html` `.css`
+I build things.
 
-> No public repositories because I'm writing code that actually makes money.
+* Founder of [DevDock](https://www.devdock.com.br)
+* Shorten your long URLs with [URLite](https://urlite.link)
+* Contact [mail](mailto:lucas@devdock.com.br)
