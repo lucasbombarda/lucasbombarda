@@ -1,5 +1,4 @@
 I build things.
 
-* Founder of [DevDock](https://www.devdock.com.br)
-* Shorten your long URLs with [URLite](https://urlite.link)
-* Contact [mail](mailto:lucas@devdock.com.br)
+* Everything you need to know is [here](https://lucasbombarda.com)
+* [Contact](mailto:lucas@devdock.com.br)
